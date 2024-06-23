@@ -1,0 +1,8 @@
+bower_components
+node_modules
+!build/docs/node_modules
+*~
+*#
+*.idea
+/escrow/
+/.bowerrc
